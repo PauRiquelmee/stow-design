@@ -1,0 +1,24 @@
+Informe creado: 
+	28-02-2022	18:10:45
+
+Nombre del proyecto: noidea(idea).aep
+
+Archivos de origen recopilados en: 
+	D:\stow\noidea(idea) carpeta
+
+Archivos de origen recopilados: Todo
+
+Comp. recopiladas:  
+	noidea
+	noidea 2
+	
+Número de archivos recopilados: 1
+
+Tamaño de los archivos recopilados: 238 KB
+
+Archivos de origen recopilados: 
+	D:\stow\noidea.ai
+	
+Procesando plugins:
+	Classic 3D
+	
